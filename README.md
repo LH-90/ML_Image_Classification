@@ -22,13 +22,13 @@ Link to the dataset: https://drive.google.com/drive/folders/1xySHpWBCxZoBf7pEC3G
 
 1. Install and import necessary libraries
 
-2. Data Preprocessing: Load, split the data into training and testing sets and perform necessary preprocessing steps, such as rescaling and resizing
+2. Data preprocessing: load, split the data into training and testing sets and perform necessary preprocessing steps, such as rescaling and resizing
 
-3. Develop Neural Network Architecture: Build the neural network architecture using the Keras library, adjust the model architecture based on the requirements of the challenge
+3. Develop neural network architecture: build the neural network architecture using the Keras library, adjust the model architecture based on the requirements of the challenge
 
-4. Compile, Train, and Evaluate: Compile the model, train it on the training set, and evaluate its performance on the validation set
+4. Compile, train and evaluate: compile the model, train it on the training set, and evaluate its performance on the validation set
 
-5. Check the Model: After training, check the model by predicting a random picture from the test set
+5. Check the model: after training, check the model by predicting a random picture from the test set
 
 
 Feel free to customise the code based on your specific needs and experiment with different architectures to improve your model's performance. 
