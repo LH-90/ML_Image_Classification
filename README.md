@@ -31,9 +31,6 @@ Link to the dataset: https://drive.google.com/drive/folders/1xySHpWBCxZoBf7pEC3G
 5. Check the model: after training, check the model by predicting a random picture from the test set
 
 
-Feel free to customise the code based on your specific needs and experiment with different architectures to improve your model's performance. 
-Good luck with the challenge!
-
 
 
 
