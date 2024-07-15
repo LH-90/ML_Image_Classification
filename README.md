@@ -13,6 +13,7 @@ Link to the dataset: https://drive.google.com/drive/folders/1xySHpWBCxZoBf7pEC3G
 
 ## Setup
 
+- Install Python on your computer if it's not already installed (https://www.python.org/downloads/)
 - Clone this repo
 - Prepare the dataset: Create a new directory named "Dataset", inside the "Dataset" directory, create 6 sub-directories according to your dataset structure and import the images into their respective subdirectories
 - Create a virtual environment: `python3 -m venv myenv`
