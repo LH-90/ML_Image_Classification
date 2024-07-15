@@ -7,17 +7,17 @@ The goal of this challenge is to develop a machine learning model capable of ide
 
 ## Dataset Structure
 
-The dataset is organised in a main directory named "Dataset" with six sub-directories, each dedicated to a specific object or letter. These sub-directories contain images relevant to the respective target.
+The dataset is organised in a main directory named "Dataset" with 6 sub-directories, each dedicated to a specific object or letter. These sub-directories contain images relevant to the respective target.
 
 Link to the dataset: https://drive.google.com/drive/folders/1xySHpWBCxZoBf7pEC3GIx3lWyfTcjEBo
 
 ## Setup
 
 - Clone this repo
-- Import the dataset containing the images
+- Prepare the dataset: Create a new directory named "Dataset", inside the "Dataset" directory, create 6 sub-directories according to your dataset structure and import the images into their respective subdirectories
 - Create a virtual environment: `python3 -m venv myenv`
 - Activate the virtual environment: `source myenv/bin/activate`
-- Install the dependencies
+- Install the dependencies in the activated environment (myenv): `pip install numpy tensorflow matplotlib scikit-learn`
 - Run the code inside **image_classification.ipynb**
 
 ## Model Development in VS Code
