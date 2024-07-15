@@ -11,12 +11,14 @@ The dataset is organised in a main directory named "Dataset" with six sub-direct
 
 Link to the dataset: https://drive.google.com/drive/folders/1xySHpWBCxZoBf7pEC3GIx3lWyfTcjEBo
 
-## Set up a virtual environment in VS Code
+## Setup
 
-- Go to Terminal and type: `python3 -m venv myenv`
+- Clone this repo
+- Import the dataset containing the images
+- Create a virtual environment: `python3 -m venv myenv`
 - Activate the virtual environment: `source myenv/bin/activate`
-- Import the dataset folder
-- Import the file named "image_classification.ipynb" and follow the steps
+- Install the dependencies
+- Run the code inside **image_classification.ipynb**
 
 ## Model Development in VS Code
 
