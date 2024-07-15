@@ -13,10 +13,10 @@ Link to the dataset: https://drive.google.com/drive/folders/1xySHpWBCxZoBf7pEC3G
 
 ## Set up a virtual environment in VS Code
 
-- Go to Terminal and type: python3 -m venv myenv
-- Activate the virtual environment: source myenv/bin/activate
+- Go to Terminal and type: `python3 -m venv myenv`
+- Activate the virtual environment: `source myenv/bin/activate`
 - Import the dataset folder
-- Open the file named "image_classification.ipynb" and follow the steps
+- Import the file named "image_classification.ipynb" and follow the steps
 
 ## Model Development in VS Code
 
